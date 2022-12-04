@@ -1,0 +1,43 @@
+.residents-container{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  width: 100%;
+  max-width: 1480px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.App{
+text-align: center;
+height: 370px;
+left: 0px;
+top: 0px;
+background-image: url('./components/image/backd.webp');
+background-repeat: none;
+background-size: cover;
+background-position: center;
+}
+#inputSearch{
+  align-items: center;
+  margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding: 0.5rem 2rem;
+    border-radius: 5px;
+    font-size: 1.5rem;
+}
+.button{
+  background: black;
+  color: white;
+  display: inline-block;
+  font-size: 1.2rem;
+  margin: 20px;
+  padding: 10px 0;
+  text-align: center;
+  width: 100px;
+  text-decoration: none;
+border-radius: 10px;
+cursor: pointer;
+}
+

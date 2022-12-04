@@ -1,0 +1,10 @@
+.type{
+  position: absolute;
+    width: 890px;
+      height: 126px;
+      left: 500px;
+      top: 350px;
+    background: #062226;
+    color: white;
+    min-height: 20px;
+}
